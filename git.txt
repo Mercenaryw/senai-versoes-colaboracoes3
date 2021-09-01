@@ -1,0 +1,16 @@
+	dentro do diretorio
+git init
+	
+git config --global user.name "user"
+
+git config --global user.email "email"
+
+criar um arquivo .txt
+
+git status <!-- tem arquivos sem commit -->
+
+git add * || git add .
+git add nomedoarquivo
+
+git commit -m "meu primeiro commit"
+
