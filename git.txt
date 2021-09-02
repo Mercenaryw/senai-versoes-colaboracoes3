@@ -14,3 +14,24 @@ git add nomedoarquivo
 
 git commit -m "meu primeiro commit"
 
+git log
+
+
+acessar github
+criar repositorio
+senai-versoes-colaboracoes-3
+https://github.com/Mercenaryw/senai-versoes-colaboracoes3.git
+
+envio via https
+git remote add origin https://github.com/Mercenaryw/senai-versoes-colaboracoes3.git
+
+git remote -v        check o caminho??
+
+git config --global credential.github.com.useHttpPath true
+L-->>trabalhar por repositorio 
+
+
+comandos terminal linux:
+Ctrl+R
+history
+
