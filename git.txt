@@ -30,6 +30,18 @@ git remote -v        check o caminho??
 git config --global credential.github.com.useHttpPath true
 L-->>trabalhar por repositorio 
 
+git push -u origem master
+login e senha
+check no repositorio remoto
+
+READ.md
+git pull
+L> trazer as alterações do repositorio remoto
+<---------------------------------------------------------->
+gitignore
+L>tudo que estiver dentro do gitignore eke nao permite subir
+*.bmp   ->ignora todos que tenham extensão .bmp
+
 
 comandos terminal linux:
 Ctrl+R
