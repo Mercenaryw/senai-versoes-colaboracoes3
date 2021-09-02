@@ -45,12 +45,20 @@ L>tudo que estiver dentro do gitignore eke nao permite subir
 Ramificações:
 L>TRUNK
 	L>Branch
+<<<<<<< HEAD
 
 git checkout -b tarefa/minha-primeira-branch
 (OBS analisar a ramificação de partida Master)
 para voltar
 git checkout master
 
+=======
+git checkout -b tarefa/minha-primeira-branch
+(OBS analisar a ramificação de partida Master)
+para voltar
+git checkout master
+
+>>>>>>> tarefa/minha-primeira-branch
 gi
 
 VIN -> para sair :q
