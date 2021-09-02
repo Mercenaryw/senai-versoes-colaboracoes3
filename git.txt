@@ -45,21 +45,17 @@ L>tudo que estiver dentro do gitignore eke nao permite subir
 Ramificações:
 L>TRUNK
 	L>Branch
-<<<<<<< HEAD
 
 git checkout -b tarefa/minha-primeira-branch
 (OBS analisar a ramificação de partida Master)
 para voltar
 git checkout master
 
-=======
-git checkout -b tarefa/minha-primeira-branch
-(OBS analisar a ramificação de partida Master)
-para voltar
-git checkout master
+Merge
+git merge tarefa/minha-primeira-branch
 
->>>>>>> tarefa/minha-primeira-branch
-gi
+TAG:(deve ser feito no branch master)
+git tag -a v1.0 -m "Minha primeira tag"
 
 VIN -> para sair :q
 comandos terminal linux:
